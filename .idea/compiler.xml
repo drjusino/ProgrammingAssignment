@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
-      <module name="ProgammingAssignment_main" target="1.8" />
-      <module name="ProgammingAssignment_test" target="1.8" />
-    </bytecodeTargetLevel>
-  </component>
-</project>
