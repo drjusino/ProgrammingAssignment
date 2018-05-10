@@ -26,6 +26,7 @@ public class ParkLocator {
     private static final String googlePlacesURL = "https://maps.googleapis.com/maps/api/place/nearbysearch/json";
 
     //Location Variables
+    //Testing Git
     @NotNull
     private String address;
     private List<String> parks;
